@@ -1,0 +1,19 @@
+.navbar-nav {
+  margin: 0px auto;
+}
+
+.img-sizing {
+  width: 1440px;
+  height: 584px;
+  opacity: .5;
+}
+
+.margin{
+    margin: 0px auto;
+}
+
+.text-part{
+    text-align: center;
+    
+    padding-top: 20px;
+}
